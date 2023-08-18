@@ -51,4 +51,5 @@ class NotificationTaskServiceTest {
                 .hasSize(3)
                 .containsExactlyInAnyOrder(TASK_3, TASK_1, TASK_2);
     }
+
 }

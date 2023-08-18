@@ -19,4 +19,5 @@ public class TaskConstants {
             TASK_2,
             TASK_3
     );
+
 }
